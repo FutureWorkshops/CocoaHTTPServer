@@ -11,23 +11,23 @@
 		B716D0BA15DBDE1500BD4AB1 /* DDData.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D07615DBDDFF00BD4AB1 /* DDData.m */; };
 		B716D0BB15DBDE1500BD4AB1 /* DDNumber.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D07815DBDDFF00BD4AB1 /* DDNumber.m */; };
 		B716D0BC15DBDE1500BD4AB1 /* DDRange.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D07A15DBDDFF00BD4AB1 /* DDRange.m */; };
-		B716D0BD15DBDE1500BD4AB1 /* HTTPAuthenticationRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D07C15DBDDFF00BD4AB1 /* HTTPAuthenticationRequest.m */; };
-		B716D0BE15DBDE1500BD4AB1 /* HTTPConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D07E15DBDDFF00BD4AB1 /* HTTPConnection.m */; };
-		B716D0BF15DBDE1500BD4AB1 /* HTTPMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D08115DBDDFF00BD4AB1 /* HTTPMessage.m */; };
-		B716D0C015DBDE1500BD4AB1 /* HTTPServer.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D08415DBDDFF00BD4AB1 /* HTTPServer.m */; };
-		B716D0C115DBDE1800BD4AB1 /* MultipartFormDataParser.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D08715DBDDFF00BD4AB1 /* MultipartFormDataParser.m */; };
-		B716D0C215DBDE1800BD4AB1 /* MultipartMessageHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D08915DBDDFF00BD4AB1 /* MultipartMessageHeader.m */; };
-		B716D0C315DBDE1800BD4AB1 /* MultipartMessageHeaderField.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D08B15DBDDFF00BD4AB1 /* MultipartMessageHeaderField.m */; };
-		B716D0C415DBDE1B00BD4AB1 /* HTTPAsyncFileResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D08E15DBDDFF00BD4AB1 /* HTTPAsyncFileResponse.m */; };
-		B716D0C515DBDE1B00BD4AB1 /* HTTPDataResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D09015DBDDFF00BD4AB1 /* HTTPDataResponse.m */; };
-		B716D0C615DBDE1B00BD4AB1 /* HTTPDynamicFileResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D09215DBDDFF00BD4AB1 /* HTTPDynamicFileResponse.m */; };
-		B716D0C715DBDE1B00BD4AB1 /* HTTPFileResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D09415DBDDFF00BD4AB1 /* HTTPFileResponse.m */; };
-		B716D0C815DBDE1B00BD4AB1 /* HTTPRedirectResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D09615DBDDFF00BD4AB1 /* HTTPRedirectResponse.m */; };
-		B716D0C915DBDE1B00BD4AB1 /* WebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D09815DBDDFF00BD4AB1 /* WebSocket.m */; };
-		B716D0CA15DBDE1D00BD4AB1 /* DAVConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D09C15DBDDFF00BD4AB1 /* DAVConnection.m */; };
-		B716D0CB15DBDE1D00BD4AB1 /* DAVResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D09E15DBDDFF00BD4AB1 /* DAVResponse.m */; };
-		B716D0CC15DBDE1D00BD4AB1 /* DELETEResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D0A015DBDDFF00BD4AB1 /* DELETEResponse.m */; };
-		B716D0CD15DBDE1D00BD4AB1 /* PUTResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D0A215DBDDFF00BD4AB1 /* PUTResponse.m */; };
+		B716D0BD15DBDE1500BD4AB1 /* RHHTTPAuthenticationRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D07C15DBDDFF00BD4AB1 /* RHHTTPAuthenticationRequest.m */; };
+		B716D0BE15DBDE1500BD4AB1 /* RHHTTPConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D07E15DBDDFF00BD4AB1 /* RHHTTPConnection.m */; };
+		B716D0BF15DBDE1500BD4AB1 /* RHHTTPMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D08115DBDDFF00BD4AB1 /* RHHTTPMessage.m */; };
+		B716D0C015DBDE1500BD4AB1 /* RHHTTPServer.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D08415DBDDFF00BD4AB1 /* RHHTTPServer.m */; };
+		B716D0C115DBDE1800BD4AB1 /* RHMultipartFormDataParser.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D08715DBDDFF00BD4AB1 /* RHMultipartFormDataParser.m */; };
+		B716D0C215DBDE1800BD4AB1 /* RHMultipartMessageHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D08915DBDDFF00BD4AB1 /* RHMultipartMessageHeader.m */; };
+		B716D0C315DBDE1800BD4AB1 /* RHMultipartMessageHeaderField.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D08B15DBDDFF00BD4AB1 /* RHMultipartMessageHeaderField.m */; };
+		B716D0C415DBDE1B00BD4AB1 /* RHHTTPAsyncFileResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D08E15DBDDFF00BD4AB1 /* RHHTTPAsyncFileResponse.m */; };
+		B716D0C515DBDE1B00BD4AB1 /* RHHTTPDataResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D09015DBDDFF00BD4AB1 /* RHHTTPDataResponse.m */; };
+		B716D0C615DBDE1B00BD4AB1 /* RHHTTPDynamicFileResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D09215DBDDFF00BD4AB1 /* RHHTTPDynamicFileResponse.m */; };
+		B716D0C715DBDE1B00BD4AB1 /* RHHTTPFileResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D09415DBDDFF00BD4AB1 /* RHHTTPFileResponse.m */; };
+		B716D0C815DBDE1B00BD4AB1 /* RHHTTPRedirectResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D09615DBDDFF00BD4AB1 /* RHHTTPRedirectResponse.m */; };
+		B716D0C915DBDE1B00BD4AB1 /* RHWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D09815DBDDFF00BD4AB1 /* RHWebSocket.m */; };
+		B716D0CA15DBDE1D00BD4AB1 /* RHDAVConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D09C15DBDDFF00BD4AB1 /* RHDAVConnection.m */; };
+		B716D0CB15DBDE1D00BD4AB1 /* RHDAVResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D09E15DBDDFF00BD4AB1 /* RHDAVResponse.m */; };
+		B716D0CC15DBDE1D00BD4AB1 /* RHDELETEResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D0A015DBDDFF00BD4AB1 /* RHDELETEResponse.m */; };
+		B716D0CD15DBDE1D00BD4AB1 /* RHPUTResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D0A215DBDDFF00BD4AB1 /* RHPUTResponse.m */; };
 		B716D0CE15DBDE2200BD4AB1 /* GCDAsyncSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D0A715DBDDFF00BD4AB1 /* GCDAsyncSocket.m */; };
 		B716D0CF15DBDE2200BD4AB1 /* DDAbstractDatabaseLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D0AB15DBDDFF00BD4AB1 /* DDAbstractDatabaseLogger.m */; };
 		B716D0D015DBDE2200BD4AB1 /* DDASLLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = B716D0AD15DBDDFF00BD4AB1 /* DDASLLogger.m */; };
@@ -61,42 +61,42 @@
 		B716D07815DBDDFF00BD4AB1 /* DDNumber.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DDNumber.m; sourceTree = "<group>"; };
 		B716D07915DBDDFF00BD4AB1 /* DDRange.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DDRange.h; sourceTree = "<group>"; };
 		B716D07A15DBDDFF00BD4AB1 /* DDRange.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DDRange.m; sourceTree = "<group>"; };
-		B716D07B15DBDDFF00BD4AB1 /* HTTPAuthenticationRequest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HTTPAuthenticationRequest.h; sourceTree = "<group>"; };
-		B716D07C15DBDDFF00BD4AB1 /* HTTPAuthenticationRequest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HTTPAuthenticationRequest.m; sourceTree = "<group>"; };
-		B716D07D15DBDDFF00BD4AB1 /* HTTPConnection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HTTPConnection.h; sourceTree = "<group>"; };
-		B716D07E15DBDDFF00BD4AB1 /* HTTPConnection.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HTTPConnection.m; sourceTree = "<group>"; };
+		B716D07B15DBDDFF00BD4AB1 /* RHHTTPAuthenticationRequest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHHTTPAuthenticationRequest.h; sourceTree = "<group>"; };
+		B716D07C15DBDDFF00BD4AB1 /* RHHTTPAuthenticationRequest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHHTTPAuthenticationRequest.m; sourceTree = "<group>"; };
+		B716D07D15DBDDFF00BD4AB1 /* RHHTTPConnection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHHTTPConnection.h; sourceTree = "<group>"; };
+		B716D07E15DBDDFF00BD4AB1 /* RHHTTPConnection.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHHTTPConnection.m; sourceTree = "<group>"; };
 		B716D07F15DBDDFF00BD4AB1 /* HTTPLogging.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HTTPLogging.h; sourceTree = "<group>"; };
-		B716D08015DBDDFF00BD4AB1 /* HTTPMessage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HTTPMessage.h; sourceTree = "<group>"; };
-		B716D08115DBDDFF00BD4AB1 /* HTTPMessage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HTTPMessage.m; sourceTree = "<group>"; };
-		B716D08215DBDDFF00BD4AB1 /* HTTPResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HTTPResponse.h; sourceTree = "<group>"; };
-		B716D08315DBDDFF00BD4AB1 /* HTTPServer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HTTPServer.h; sourceTree = "<group>"; };
-		B716D08415DBDDFF00BD4AB1 /* HTTPServer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HTTPServer.m; sourceTree = "<group>"; };
-		B716D08615DBDDFF00BD4AB1 /* MultipartFormDataParser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MultipartFormDataParser.h; sourceTree = "<group>"; };
-		B716D08715DBDDFF00BD4AB1 /* MultipartFormDataParser.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MultipartFormDataParser.m; sourceTree = "<group>"; };
-		B716D08815DBDDFF00BD4AB1 /* MultipartMessageHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MultipartMessageHeader.h; sourceTree = "<group>"; };
-		B716D08915DBDDFF00BD4AB1 /* MultipartMessageHeader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MultipartMessageHeader.m; sourceTree = "<group>"; };
-		B716D08A15DBDDFF00BD4AB1 /* MultipartMessageHeaderField.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MultipartMessageHeaderField.h; sourceTree = "<group>"; };
-		B716D08B15DBDDFF00BD4AB1 /* MultipartMessageHeaderField.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MultipartMessageHeaderField.m; sourceTree = "<group>"; };
-		B716D08D15DBDDFF00BD4AB1 /* HTTPAsyncFileResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HTTPAsyncFileResponse.h; sourceTree = "<group>"; };
-		B716D08E15DBDDFF00BD4AB1 /* HTTPAsyncFileResponse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HTTPAsyncFileResponse.m; sourceTree = "<group>"; };
-		B716D08F15DBDDFF00BD4AB1 /* HTTPDataResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HTTPDataResponse.h; sourceTree = "<group>"; };
-		B716D09015DBDDFF00BD4AB1 /* HTTPDataResponse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HTTPDataResponse.m; sourceTree = "<group>"; };
-		B716D09115DBDDFF00BD4AB1 /* HTTPDynamicFileResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HTTPDynamicFileResponse.h; sourceTree = "<group>"; };
-		B716D09215DBDDFF00BD4AB1 /* HTTPDynamicFileResponse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HTTPDynamicFileResponse.m; sourceTree = "<group>"; };
-		B716D09315DBDDFF00BD4AB1 /* HTTPFileResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HTTPFileResponse.h; sourceTree = "<group>"; };
-		B716D09415DBDDFF00BD4AB1 /* HTTPFileResponse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HTTPFileResponse.m; sourceTree = "<group>"; };
-		B716D09515DBDDFF00BD4AB1 /* HTTPRedirectResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HTTPRedirectResponse.h; sourceTree = "<group>"; };
-		B716D09615DBDDFF00BD4AB1 /* HTTPRedirectResponse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HTTPRedirectResponse.m; sourceTree = "<group>"; };
-		B716D09715DBDDFF00BD4AB1 /* WebSocket.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WebSocket.h; sourceTree = "<group>"; };
-		B716D09815DBDDFF00BD4AB1 /* WebSocket.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WebSocket.m; sourceTree = "<group>"; };
-		B716D09B15DBDDFF00BD4AB1 /* DAVConnection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DAVConnection.h; sourceTree = "<group>"; };
-		B716D09C15DBDDFF00BD4AB1 /* DAVConnection.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DAVConnection.m; sourceTree = "<group>"; };
-		B716D09D15DBDDFF00BD4AB1 /* DAVResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DAVResponse.h; sourceTree = "<group>"; };
-		B716D09E15DBDDFF00BD4AB1 /* DAVResponse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DAVResponse.m; sourceTree = "<group>"; };
-		B716D09F15DBDDFF00BD4AB1 /* DELETEResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DELETEResponse.h; sourceTree = "<group>"; };
-		B716D0A015DBDDFF00BD4AB1 /* DELETEResponse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DELETEResponse.m; sourceTree = "<group>"; };
-		B716D0A115DBDDFF00BD4AB1 /* PUTResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PUTResponse.h; sourceTree = "<group>"; };
-		B716D0A215DBDDFF00BD4AB1 /* PUTResponse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PUTResponse.m; sourceTree = "<group>"; };
+		B716D08015DBDDFF00BD4AB1 /* RHHTTPMessage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHHTTPMessage.h; sourceTree = "<group>"; };
+		B716D08115DBDDFF00BD4AB1 /* RHHTTPMessage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHHTTPMessage.m; sourceTree = "<group>"; };
+		B716D08215DBDDFF00BD4AB1 /* RHHTTPResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHHTTPResponse.h; sourceTree = "<group>"; };
+		B716D08315DBDDFF00BD4AB1 /* RHHTTPServer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHHTTPServer.h; sourceTree = "<group>"; };
+		B716D08415DBDDFF00BD4AB1 /* RHHTTPServer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHHTTPServer.m; sourceTree = "<group>"; };
+		B716D08615DBDDFF00BD4AB1 /* RHMultipartFormDataParser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHMultipartFormDataParser.h; sourceTree = "<group>"; };
+		B716D08715DBDDFF00BD4AB1 /* RHMultipartFormDataParser.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHMultipartFormDataParser.m; sourceTree = "<group>"; };
+		B716D08815DBDDFF00BD4AB1 /* RHMultipartMessageHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHMultipartMessageHeader.h; sourceTree = "<group>"; };
+		B716D08915DBDDFF00BD4AB1 /* RHMultipartMessageHeader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHMultipartMessageHeader.m; sourceTree = "<group>"; };
+		B716D08A15DBDDFF00BD4AB1 /* RHMultipartMessageHeaderField.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHMultipartMessageHeaderField.h; sourceTree = "<group>"; };
+		B716D08B15DBDDFF00BD4AB1 /* RHMultipartMessageHeaderField.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHMultipartMessageHeaderField.m; sourceTree = "<group>"; };
+		B716D08D15DBDDFF00BD4AB1 /* RHHTTPAsyncFileResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHHTTPAsyncFileResponse.h; sourceTree = "<group>"; };
+		B716D08E15DBDDFF00BD4AB1 /* RHHTTPAsyncFileResponse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHHTTPAsyncFileResponse.m; sourceTree = "<group>"; };
+		B716D08F15DBDDFF00BD4AB1 /* RHHTTPDataResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHHTTPDataResponse.h; sourceTree = "<group>"; };
+		B716D09015DBDDFF00BD4AB1 /* RHHTTPDataResponse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHHTTPDataResponse.m; sourceTree = "<group>"; };
+		B716D09115DBDDFF00BD4AB1 /* RHHTTPDynamicFileResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHHTTPDynamicFileResponse.h; sourceTree = "<group>"; };
+		B716D09215DBDDFF00BD4AB1 /* RHHTTPDynamicFileResponse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHHTTPDynamicFileResponse.m; sourceTree = "<group>"; };
+		B716D09315DBDDFF00BD4AB1 /* RHHTTPFileResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHHTTPFileResponse.h; sourceTree = "<group>"; };
+		B716D09415DBDDFF00BD4AB1 /* RHHTTPFileResponse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHHTTPFileResponse.m; sourceTree = "<group>"; };
+		B716D09515DBDDFF00BD4AB1 /* RHHTTPRedirectResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHHTTPRedirectResponse.h; sourceTree = "<group>"; };
+		B716D09615DBDDFF00BD4AB1 /* RHHTTPRedirectResponse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHHTTPRedirectResponse.m; sourceTree = "<group>"; };
+		B716D09715DBDDFF00BD4AB1 /* RHWebSocket.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHWebSocket.h; sourceTree = "<group>"; };
+		B716D09815DBDDFF00BD4AB1 /* RHWebSocket.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHWebSocket.m; sourceTree = "<group>"; };
+		B716D09B15DBDDFF00BD4AB1 /* RHDAVConnection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHDAVConnection.h; sourceTree = "<group>"; };
+		B716D09C15DBDDFF00BD4AB1 /* RHDAVConnection.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHDAVConnection.m; sourceTree = "<group>"; };
+		B716D09D15DBDDFF00BD4AB1 /* RHDAVResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHDAVResponse.h; sourceTree = "<group>"; };
+		B716D09E15DBDDFF00BD4AB1 /* RHDAVResponse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHDAVResponse.m; sourceTree = "<group>"; };
+		B716D09F15DBDDFF00BD4AB1 /* RHDELETEResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHDELETEResponse.h; sourceTree = "<group>"; };
+		B716D0A015DBDDFF00BD4AB1 /* RHDELETEResponse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHDELETEResponse.m; sourceTree = "<group>"; };
+		B716D0A115DBDDFF00BD4AB1 /* RHPUTResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RHPUTResponse.h; sourceTree = "<group>"; };
+		B716D0A215DBDDFF00BD4AB1 /* RHPUTResponse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RHPUTResponse.m; sourceTree = "<group>"; };
 		B716D0A615DBDDFF00BD4AB1 /* GCDAsyncSocket.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GCDAsyncSocket.h; sourceTree = "<group>"; };
 		B716D0A715DBDDFF00BD4AB1 /* GCDAsyncSocket.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GCDAsyncSocket.m; sourceTree = "<group>"; };
 		B716D0AA15DBDDFF00BD4AB1 /* DDAbstractDatabaseLogger.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DDAbstractDatabaseLogger.h; sourceTree = "<group>"; };
@@ -179,20 +179,20 @@
 			isa = PBXGroup;
 			children = (
 				B716D07415DBDDFF00BD4AB1 /* Categories */,
-				B716D07B15DBDDFF00BD4AB1 /* HTTPAuthenticationRequest.h */,
-				B716D07C15DBDDFF00BD4AB1 /* HTTPAuthenticationRequest.m */,
-				B716D07D15DBDDFF00BD4AB1 /* HTTPConnection.h */,
-				B716D07E15DBDDFF00BD4AB1 /* HTTPConnection.m */,
+				B716D07B15DBDDFF00BD4AB1 /* RHHTTPAuthenticationRequest.h */,
+				B716D07C15DBDDFF00BD4AB1 /* RHHTTPAuthenticationRequest.m */,
+				B716D07D15DBDDFF00BD4AB1 /* RHHTTPConnection.h */,
+				B716D07E15DBDDFF00BD4AB1 /* RHHTTPConnection.m */,
 				B716D07F15DBDDFF00BD4AB1 /* HTTPLogging.h */,
-				B716D08015DBDDFF00BD4AB1 /* HTTPMessage.h */,
-				B716D08115DBDDFF00BD4AB1 /* HTTPMessage.m */,
-				B716D08215DBDDFF00BD4AB1 /* HTTPResponse.h */,
-				B716D08315DBDDFF00BD4AB1 /* HTTPServer.h */,
-				B716D08415DBDDFF00BD4AB1 /* HTTPServer.m */,
+				B716D08015DBDDFF00BD4AB1 /* RHHTTPMessage.h */,
+				B716D08115DBDDFF00BD4AB1 /* RHHTTPMessage.m */,
+				B716D08215DBDDFF00BD4AB1 /* RHHTTPResponse.h */,
+				B716D08315DBDDFF00BD4AB1 /* RHHTTPServer.h */,
+				B716D08415DBDDFF00BD4AB1 /* RHHTTPServer.m */,
 				B716D08515DBDDFF00BD4AB1 /* Mime */,
 				B716D08C15DBDDFF00BD4AB1 /* Responses */,
-				B716D09715DBDDFF00BD4AB1 /* WebSocket.h */,
-				B716D09815DBDDFF00BD4AB1 /* WebSocket.m */,
+				B716D09715DBDDFF00BD4AB1 /* RHWebSocket.h */,
+				B716D09815DBDDFF00BD4AB1 /* RHWebSocket.m */,
 			);
 			path = Core;
 			sourceTree = SOURCE_ROOT;
@@ -213,12 +213,12 @@
 		B716D08515DBDDFF00BD4AB1 /* Mime */ = {
 			isa = PBXGroup;
 			children = (
-				B716D08615DBDDFF00BD4AB1 /* MultipartFormDataParser.h */,
-				B716D08715DBDDFF00BD4AB1 /* MultipartFormDataParser.m */,
-				B716D08815DBDDFF00BD4AB1 /* MultipartMessageHeader.h */,
-				B716D08915DBDDFF00BD4AB1 /* MultipartMessageHeader.m */,
-				B716D08A15DBDDFF00BD4AB1 /* MultipartMessageHeaderField.h */,
-				B716D08B15DBDDFF00BD4AB1 /* MultipartMessageHeaderField.m */,
+				B716D08615DBDDFF00BD4AB1 /* RHMultipartFormDataParser.h */,
+				B716D08715DBDDFF00BD4AB1 /* RHMultipartFormDataParser.m */,
+				B716D08815DBDDFF00BD4AB1 /* RHMultipartMessageHeader.h */,
+				B716D08915DBDDFF00BD4AB1 /* RHMultipartMessageHeader.m */,
+				B716D08A15DBDDFF00BD4AB1 /* RHMultipartMessageHeaderField.h */,
+				B716D08B15DBDDFF00BD4AB1 /* RHMultipartMessageHeaderField.m */,
 			);
 			path = Mime;
 			sourceTree = "<group>";
@@ -226,16 +226,16 @@
 		B716D08C15DBDDFF00BD4AB1 /* Responses */ = {
 			isa = PBXGroup;
 			children = (
-				B716D08D15DBDDFF00BD4AB1 /* HTTPAsyncFileResponse.h */,
-				B716D08E15DBDDFF00BD4AB1 /* HTTPAsyncFileResponse.m */,
-				B716D08F15DBDDFF00BD4AB1 /* HTTPDataResponse.h */,
-				B716D09015DBDDFF00BD4AB1 /* HTTPDataResponse.m */,
-				B716D09115DBDDFF00BD4AB1 /* HTTPDynamicFileResponse.h */,
-				B716D09215DBDDFF00BD4AB1 /* HTTPDynamicFileResponse.m */,
-				B716D09315DBDDFF00BD4AB1 /* HTTPFileResponse.h */,
-				B716D09415DBDDFF00BD4AB1 /* HTTPFileResponse.m */,
-				B716D09515DBDDFF00BD4AB1 /* HTTPRedirectResponse.h */,
-				B716D09615DBDDFF00BD4AB1 /* HTTPRedirectResponse.m */,
+				B716D08D15DBDDFF00BD4AB1 /* RHHTTPAsyncFileResponse.h */,
+				B716D08E15DBDDFF00BD4AB1 /* RHHTTPAsyncFileResponse.m */,
+				B716D08F15DBDDFF00BD4AB1 /* RHHTTPDataResponse.h */,
+				B716D09015DBDDFF00BD4AB1 /* RHHTTPDataResponse.m */,
+				B716D09115DBDDFF00BD4AB1 /* RHHTTPDynamicFileResponse.h */,
+				B716D09215DBDDFF00BD4AB1 /* RHHTTPDynamicFileResponse.m */,
+				B716D09315DBDDFF00BD4AB1 /* RHHTTPFileResponse.h */,
+				B716D09415DBDDFF00BD4AB1 /* RHHTTPFileResponse.m */,
+				B716D09515DBDDFF00BD4AB1 /* RHHTTPRedirectResponse.h */,
+				B716D09615DBDDFF00BD4AB1 /* RHHTTPRedirectResponse.m */,
 			);
 			path = Responses;
 			sourceTree = "<group>";
@@ -251,14 +251,14 @@
 		B716D09A15DBDDFF00BD4AB1 /* WebDAV */ = {
 			isa = PBXGroup;
 			children = (
-				B716D09B15DBDDFF00BD4AB1 /* DAVConnection.h */,
-				B716D09C15DBDDFF00BD4AB1 /* DAVConnection.m */,
-				B716D09D15DBDDFF00BD4AB1 /* DAVResponse.h */,
-				B716D09E15DBDDFF00BD4AB1 /* DAVResponse.m */,
-				B716D09F15DBDDFF00BD4AB1 /* DELETEResponse.h */,
-				B716D0A015DBDDFF00BD4AB1 /* DELETEResponse.m */,
-				B716D0A115DBDDFF00BD4AB1 /* PUTResponse.h */,
-				B716D0A215DBDDFF00BD4AB1 /* PUTResponse.m */,
+				B716D09B15DBDDFF00BD4AB1 /* RHDAVConnection.h */,
+				B716D09C15DBDDFF00BD4AB1 /* RHDAVConnection.m */,
+				B716D09D15DBDDFF00BD4AB1 /* RHDAVResponse.h */,
+				B716D09E15DBDDFF00BD4AB1 /* RHDAVResponse.m */,
+				B716D09F15DBDDFF00BD4AB1 /* RHDELETEResponse.h */,
+				B716D0A015DBDDFF00BD4AB1 /* RHDELETEResponse.m */,
+				B716D0A115DBDDFF00BD4AB1 /* RHPUTResponse.h */,
+				B716D0A215DBDDFF00BD4AB1 /* RHPUTResponse.m */,
 			);
 			path = WebDAV;
 			sourceTree = "<group>";
@@ -365,23 +365,23 @@
 				B716D0BA15DBDE1500BD4AB1 /* DDData.m in Sources */,
 				B716D0BB15DBDE1500BD4AB1 /* DDNumber.m in Sources */,
 				B716D0BC15DBDE1500BD4AB1 /* DDRange.m in Sources */,
-				B716D0BD15DBDE1500BD4AB1 /* HTTPAuthenticationRequest.m in Sources */,
-				B716D0BE15DBDE1500BD4AB1 /* HTTPConnection.m in Sources */,
-				B716D0BF15DBDE1500BD4AB1 /* HTTPMessage.m in Sources */,
-				B716D0C015DBDE1500BD4AB1 /* HTTPServer.m in Sources */,
-				B716D0C115DBDE1800BD4AB1 /* MultipartFormDataParser.m in Sources */,
-				B716D0C215DBDE1800BD4AB1 /* MultipartMessageHeader.m in Sources */,
-				B716D0C315DBDE1800BD4AB1 /* MultipartMessageHeaderField.m in Sources */,
-				B716D0C415DBDE1B00BD4AB1 /* HTTPAsyncFileResponse.m in Sources */,
-				B716D0C515DBDE1B00BD4AB1 /* HTTPDataResponse.m in Sources */,
-				B716D0C615DBDE1B00BD4AB1 /* HTTPDynamicFileResponse.m in Sources */,
-				B716D0C715DBDE1B00BD4AB1 /* HTTPFileResponse.m in Sources */,
-				B716D0C815DBDE1B00BD4AB1 /* HTTPRedirectResponse.m in Sources */,
-				B716D0C915DBDE1B00BD4AB1 /* WebSocket.m in Sources */,
-				B716D0CA15DBDE1D00BD4AB1 /* DAVConnection.m in Sources */,
-				B716D0CB15DBDE1D00BD4AB1 /* DAVResponse.m in Sources */,
-				B716D0CC15DBDE1D00BD4AB1 /* DELETEResponse.m in Sources */,
-				B716D0CD15DBDE1D00BD4AB1 /* PUTResponse.m in Sources */,
+				B716D0BD15DBDE1500BD4AB1 /* RHHTTPAuthenticationRequest.m in Sources */,
+				B716D0BE15DBDE1500BD4AB1 /* RHHTTPConnection.m in Sources */,
+				B716D0BF15DBDE1500BD4AB1 /* RHHTTPMessage.m in Sources */,
+				B716D0C015DBDE1500BD4AB1 /* RHHTTPServer.m in Sources */,
+				B716D0C115DBDE1800BD4AB1 /* RHMultipartFormDataParser.m in Sources */,
+				B716D0C215DBDE1800BD4AB1 /* RHMultipartMessageHeader.m in Sources */,
+				B716D0C315DBDE1800BD4AB1 /* RHMultipartMessageHeaderField.m in Sources */,
+				B716D0C415DBDE1B00BD4AB1 /* RHHTTPAsyncFileResponse.m in Sources */,
+				B716D0C515DBDE1B00BD4AB1 /* RHHTTPDataResponse.m in Sources */,
+				B716D0C615DBDE1B00BD4AB1 /* RHHTTPDynamicFileResponse.m in Sources */,
+				B716D0C715DBDE1B00BD4AB1 /* RHHTTPFileResponse.m in Sources */,
+				B716D0C815DBDE1B00BD4AB1 /* RHHTTPRedirectResponse.m in Sources */,
+				B716D0C915DBDE1B00BD4AB1 /* RHWebSocket.m in Sources */,
+				B716D0CA15DBDE1D00BD4AB1 /* RHDAVConnection.m in Sources */,
+				B716D0CB15DBDE1D00BD4AB1 /* RHDAVResponse.m in Sources */,
+				B716D0CC15DBDE1D00BD4AB1 /* RHDELETEResponse.m in Sources */,
+				B716D0CD15DBDE1D00BD4AB1 /* RHPUTResponse.m in Sources */,
 				B716D0CE15DBDE2200BD4AB1 /* GCDAsyncSocket.m in Sources */,
 				B716D0CF15DBDE2200BD4AB1 /* DDAbstractDatabaseLogger.m in Sources */,
 				B716D0D015DBDE2200BD4AB1 /* DDASLLogger.m in Sources */,
